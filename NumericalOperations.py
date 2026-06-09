@@ -7,8 +7,5 @@ print(a/b)
 print(a%b)
 print(a//b)
 print(4**2)
-'''
-hghytr
-print(a%b)
-'''
-
+# hghytr
+# print(a%b)
