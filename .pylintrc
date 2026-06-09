@@ -1,2 +1,2 @@
 [MESSAGES CONTROL]
-disable=missing-module-docstring,invalid-name,missing-final-newline,trailing-newlines,pointless-string-statement
+disable=missing-module-docstring,invalid-name,missing-final-newline,trailing-newlines
