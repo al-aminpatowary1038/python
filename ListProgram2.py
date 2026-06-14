@@ -25,3 +25,6 @@ print(numList3)
 
 pos = numList3.index(5)
 print(pos)
+
+total = numList3.count(5)
+print(total)
