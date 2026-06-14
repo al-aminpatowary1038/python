@@ -1,0 +1,12 @@
+num_list= [1,2,3,4,5,8,"Eight","Nine",1.25]
+print(num_list)
+print(num_list[5])
+print(num_list [2 :])
+print(num_list *3)
+print(num_list[-1])
+print(num_list[:-3])
+print(num_list + ["one more time" ,"Messi" ,4])
+print("python" in num_list)
+print("python" not in num_list)
+print( 4 in num_list)
+print( 4 not in num_list)
