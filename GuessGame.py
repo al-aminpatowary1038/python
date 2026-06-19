@@ -3,7 +3,7 @@ f=5
 count=0
 for i in range(f) :
     n= int(input("Enter any number between 1 to 100 :"))
-    randomNum = randint(1,3)
+    randomNum = randint(1,100)
     if n == randomNum:
         print("Congratulation you guess is correct")
         print("\n")
@@ -13,4 +13,4 @@ for i in range(f) :
         print(f"Random Number is {randomNum}")
         print("\n")
 print("Your Limit is over")
-print(f"You Succfully Guess {count} times")
+print(f"You Successfully Guess {count} times")
